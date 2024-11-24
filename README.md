@@ -1,2 +1,2 @@
 # AboutMe
-This is a Website Displaying my experince as a coder so far.
+This is a Website displaying my experience as a coder so far.
